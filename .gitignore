@@ -12,5 +12,4 @@ unetweights
 other/K-Fold-Cross-Validation.ipynb
 other/Unet_WithoutAug_Kfold.ipynb
 other/Unet_simpler_model.ipynb
-other/inspect_masks.ipynb
 Unet_Segment_wAugm.ipynb
