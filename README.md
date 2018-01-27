@@ -1,5 +1,5 @@
 # Lung Cancer Segmentation
-This convolutional neural network is concerned with segmenting nodule candidates from ct scans using the data provided by the LUNA16 competition. It constitutes the first part of a bigger project that also involes a network for false positive reduction.
+This convolutional neural network is concerned with segmenting nodule candidates from ct scans using the data provided by the LUNA16 competition. It constitutes the first part of a bigger project that also involes a network for false positives reduction.
 
 Unet_Segment_wAugm.py is the final script used for training and predicting
 
