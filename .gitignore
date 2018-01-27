@@ -1,0 +1,16 @@
+preprocessing/CSVFILES/
+imagesTest.npy
+logs
+logss
+masksTestPredicted.npy
+unet.h5
+imagesTrain.npy
+logsbackup
+masksTest.npy
+masksTrain.npy
+unetweights
+other/K-Fold-Cross-Validation.ipynb
+other/Unet_WithoutAug_Kfold.ipynb
+other/Unet_simpler_model.ipynb
+other/inspect_masks.ipynb
+Unet_Segment_wAugm.ipynb
