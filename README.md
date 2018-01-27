@@ -7,5 +7,5 @@ Training loss ended up at around 74% and validation loss at around 67%. In the f
 
 Predicted masks can be inspected via other/inspect_masks.ipynb
 
-The folder 'preprocessing' contains all the scripts used for preparing the data before feeding it into the network.
+The folder 'preprocessing' contains all the scripts used for preparing the data for the network.
 The folder 'other' contains code snippets about k-fold cross validation and the smaller model. The weights file had not been pushed to the repo as its size was too big.
