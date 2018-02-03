@@ -1,6 +1,5 @@
 preprocessing/CSVFILES/
 imagesTest.npy
-logs
 logss
 masksTestPredicted.npy
 unet.h5
